@@ -1,0 +1,6 @@
+# Aucune dépendance externe n'est requise pour ce projet.
+
+#Tous les modules sont des modules standards de Python.
+
+#Python version recommandée 
+python>=3.7
