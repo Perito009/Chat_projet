@@ -15,7 +15,7 @@ Cette application de chat simple permet aux utilisateurs de communiquer en temps
 ## Installation
 
 1.clone 
-https://
+[https://](https://github.com/Perito009/Chat_projet.git)
 
 2.Naviger dans le dossier du projet :
 cd chat_projet
